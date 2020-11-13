@@ -1,0 +1,9 @@
+C:\Practice\Demo03112020\CommonAPI\bin\Debug\CommonAPI.dll
+C:\Practice\Demo03112020\CommonAPI\bin\Debug\CommonAPI.pdb
+C:\Practice\Demo03112020\CommonAPI\bin\Debug\Models.dll
+C:\Practice\Demo03112020\CommonAPI\bin\Debug\Models.pdb
+C:\Practice\Demo03112020\CommonAPI\obj\Debug\CommonAPI.csprojAssemblyReference.cache
+C:\Practice\Demo03112020\CommonAPI\obj\Debug\CommonAPI.csproj.CoreCompileInputs.cache
+C:\Practice\Demo03112020\CommonAPI\obj\Debug\CommonAPI.csproj.CopyComplete
+C:\Practice\Demo03112020\CommonAPI\obj\Debug\CommonAPI.dll
+C:\Practice\Demo03112020\CommonAPI\obj\Debug\CommonAPI.pdb
